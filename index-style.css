@@ -3,7 +3,7 @@ img {
     height: 500px;
     object-fit: contain;
     margin: auto;
-    width: 50%
+    display: block;
 }
 
 body {
@@ -11,6 +11,7 @@ body {
 }
 
 p {
+    display: block;
     margin: auto;
     width: 50%
 }
