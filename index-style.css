@@ -11,6 +11,5 @@ body {
 }
 
 p {
-    display: block;
-    margin: auto;
+    text-align: center;
 }
