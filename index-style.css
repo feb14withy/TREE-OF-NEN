@@ -1,9 +1,14 @@
 img {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 500px;
     object-fit: contain;
+    margin: auto;
 }
 
 body {
     background-color:#38384b
+}
+
+p {
+    margin: auto;
 }
